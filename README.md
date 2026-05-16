@@ -22,4 +22,4 @@ My process journal and final walkthrough documentation can be found in the GitHu
 [Final map walkthrough video](https://www.youtube.com/watch?v=pT3JZCya0NE)
 
 ## Thumbnail
-![Screenshot of the final map](Screenshot 2026-05-11 155026.png)
+![Screenshot of the final map](thumbnail)

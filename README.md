@@ -1,4 +1,5 @@
 # Volcano Bunker
+![Screenshot of the final map](thumbnail2.png)
 This repository contains my single-player Quake map for Game Design II.
 
 ## Project Description
@@ -21,5 +22,3 @@ My process journal and final walkthrough documentation can be found in the GitHu
 
 [Final map walkthrough video](https://www.youtube.com/watch?v=pT3JZCya0NE)
 
-## Thumbnail
-![Screenshot of the final map](thumbnail2.png)
